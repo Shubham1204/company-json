@@ -29,7 +29,7 @@
             "Reporting_emp_mail_id" : "ankg",
             "Reporting_emp_contact" : "12345678",
             "Role_capabilites" : "Senior System Engineer",
-            "Emp_technologies" : ["java","react","html","css"],
+            "Emp_technologies" : ["java","reactjs","html","css"],
             "Projects" : [
                 {
                     "Project_name" : "Voting",
